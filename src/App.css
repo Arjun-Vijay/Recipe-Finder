@@ -1,0 +1,62 @@
+p{
+  color: #61dafb;
+}
+
+input {
+  width: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+li{
+  padding-top: 0px;
+}
+
+
+#welcomeText {
+  color: #61dafb;
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+
+#Top {
+  background-color: #282c34;
+  width: 100%;
+  height: 200px;
+
+}
+
+#container {
+  background-color: #282c34;
+  height: 80%;
+}
+
+#MiddleLeft{
+  background-color: #282c34;
+  text-align: center;
+  position: fixed;
+  height: 80%;
+  width: 50%;
+  left: 0px;
+}
+
+#MiddleRight{
+  background-color: #282c34;
+  text-align: center;
+  position: fixed;
+  height: 80%;
+  width: 50%;
+  right: 0px;
+}
+
+/* .Buttons {
+  background-color: #282c34;
+  text-align: center;
+  position: fixed;
+  height: auto;
+  width: 100%;
+  bottom: 30px;
+} */
